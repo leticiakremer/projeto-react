@@ -1,30 +1,3 @@
-.container {
-    background-color: aquamarine;
-    display: flex;
-    justify-content: space-around;
-    height: 14vh;
-}
-
-.container-logo {
-    align-self: center;
-}
-
-.container-nav {
-    display: flex;
-    gap: 20px;
-}
-
-ul {
-    list-style: none;
-}
-
-a {
-    text-decoration: none;
-}
-
-nav {
-    align-self: center;
-}
 
 .selected {
     color: gold;

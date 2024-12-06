@@ -23,8 +23,6 @@ function App() {
         <Route path="/produtos/:id" element={<ProdutoDetalhePage />} />
         <Route path="/editar/:id" element={<ProdutoEditarPage />} />
 
-
-
         <Route path="*" element={<h1>404</h1>} />
       </Routes>
     </BrowserRouter>
